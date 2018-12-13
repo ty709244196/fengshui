@@ -32,7 +32,7 @@ body a:hover,body a:focus{
 	background:url(../images/bg.jpg)no-repeat center 0px;
 	-webkit-background-size:contain;
 	-moz-background-size:contain; 
-	background-size:contain;
+	background-size:cover;
 	position: relative; 
 }
 .bannerw3-agileinfo {

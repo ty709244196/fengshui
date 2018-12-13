@@ -30,13 +30,14 @@ body a:hover,body a:focus{
 /*-- banner --*/ 
 .w3ls-banner{ 
 	background:url(../images/bg.jpg)no-repeat center 0px;
-	-webkit-background-size:cover;
-	-moz-background-size:cover; 
-	background-size:cover;
+	-webkit-background-size:contain;
+	-moz-background-size:contain; 
+	background-size:contain;
 	position: relative; 
 }
 .bannerw3-agileinfo {
     background: rgba(0, 0, 0, 0);
+    
 } 
 /*-- header --*/
 .header {
@@ -857,7 +858,7 @@ P {
 /*-- //team --*/
 /*-- blog --*/
 .blog{
-	background:#02bbd2; 
+	background:#8eb9ff; 
 } 
 .blog-left h4{
     color: #fff; 

@@ -30,8 +30,8 @@ body a:hover,body a:focus{
 /*-- banner --*/ 
 .w3ls-banner{ 
 	background:url(../images/bg.jpg)no-repeat center 0px;
-	-webkit-background-size:contain;
-	-moz-background-size:contain; 
+	-webkit-background-size:cover;
+	-moz-background-size:cover; 
 	background-size:cover;
 	position: relative; 
 }
